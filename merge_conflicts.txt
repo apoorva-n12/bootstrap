@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hello git
 hello git 
 hello git1
+=======
+hello git 1
+hello git 1
+>>>>>>> branch2
