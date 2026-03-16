@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is a fast_forword_merge1
+=======
+this is a fast_forword_merge2
+>>>>>>> branch3
 =======
 this is a fast_forword_merge2
 >>>>>>> branch3
