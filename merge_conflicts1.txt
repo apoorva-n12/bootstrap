@@ -1,2 +1,0 @@
-merge_conflict_commit
-merge_conflict_commit
