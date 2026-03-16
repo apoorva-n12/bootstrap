@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello from main1
-=======
-hello branch3 merge conflicts
->>>>>>> branch3
