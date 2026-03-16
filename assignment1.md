@@ -6,10 +6,5 @@
  •	three way merge, fast forward merge, merge conflict
  •	rebasing, tagging
 
-<<<<<<< HEAD
 # hello
 # hello
-=======
-
-# hello
->>>>>>> d4385e693b68dde52f4eb290f2fe84cf7ea84728
