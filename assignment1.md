@@ -3,108 +3,87 @@
 This document provides an overview of the Git commands practiced during the assignment, supported by screenshots.
 
 1. directory
-Screenshot:!\[cd directory](images/directory.png)
+Screenshot:!\[cd directory](docs\images\directory.png)
 
 
 2. fast forward merge
-Screenshot:!\[fast forward merge](images/fast forward merge.png)
+Screenshot:!\[fast forward merge](docs\images\fast forword merge.png)
 
 3. fork 
-Screenshot:!\[fork](images/fork.png)
+Screenshot:!\[fork](docs/images/fork.png)
 
 4. git add
-Screenshot:!\[git add](images/git add.png)
+Screenshot:!\[git add](docs/images/git add.png)
 
 
 5. git amend
-Screenshot:!\[amend](images/git amend.png)
+Screenshot:!\[amend](docs/images/git add.png)
 
 6. git checkout
-Screenshot:!\[checkout](images/git checkout.png)
+Screenshot:!\[checkout](docs/images/git checkout.png)
 
 7. git cherry-pick
-Screenshot:!\[cherry-pick](images/git cherry-pick.png)
+Screenshot:!\[cherry-pick](docs/images/git cherry-pick.png)
 
 8. git commit
-Screenshot:!\[commit](images/git commit.png)
+Screenshot:!\[commit](docs/images/git commit.png)
 
 9. git diff
-Screenshot:!\[git diff](images/git diff.png)
+Screenshot:!\[git diff](docs/images/git diff.png)
 
 10 git HEAD
-Screenshot:!\[git head](images/HEAD.png)
+Screenshot:!\[git head](docs/images/git HEAD.png)
 
 11 git log 
-Screenshot:!\[git log](images/git log.png)
+Screenshot:!\[git log](docs/images/git log.png)
 
 12 git pull
-Screenshot:!\[git pull](images/git pull.png)
+Screenshot:!\[git pull](docs/images/git pull.png)
 
 13 git push
-Screenshot:!\[git push](images/git push.png)
+Screenshot:!\[git push](docs/images/git push.png)
 
 14 git reset hard
-Screenshot:!\[git reset hard](images/git reset hard.png)
+Screenshot:!\[git reset hard](docs/images/git reset hard.png)
 
 15 git reset mixed
-Screenshot:!\[git reset mixed](images/git reset mixed.png)
+Screenshot:!\[git reset mixed](docs/images/git reset mixed.png)
 
 16 git restore
-Screenshot:!\[git restore](images/git restore .png)
+Screenshot:!\[git restore](docs/images/git restore.png)
 
 17 git rm --cached
-Screenshot:!\[git rm --cached](images/git rm --cached.png)
+Screenshot:!\[git rm --cached](docs/images/git rm --cached.png)
 
 18 git stash
-Screenshot:!\[git stasg](images/git stash.png)
+Screenshot:!\[git stasg](docs/images/git stash.png)
 
 19 git tag
-Screenshot:!\[git tag](images/git tag.png)
+Screenshot:!\[git tag](docs/images/git tag.png)
 
 20 git clone_status_add
-Screenshot:!\[git git clone_status_add](images/git clone_status_add.png)
+Screenshot:!\[git git clone_status_add](docs/images/git_clone_status_add.png)
 
 21 git merge conflict
-Screenshot:!\[git merge conflict](images/git merge conflict.png)
+Screenshot:!\[git merge conflict](docs/images/merge conflict.png)
 
 22 git rebase
-Screenshot:!\[git rebase](images/git rebase.png)
+Screenshot:!\[git rebase](docs/images/rebase.png)
 
 23 git resolving merge conflict
-Screenshot:!\[git resolving merge conflict](images/git resolving merge conflict.png)
+Screenshot:!\[git resolving merge conflict](docs/images/resolving merge conflict.png)
  
 24 git revert
-Screenshot:!\[git revert](images/git revert.png)
+Screenshot:!\[git revert](docs/images/three way merge.png)
+
+25 git reset soft
+Screenshot:!\[git reset soft](docs/images/git reset soft.png)
 
 
 
 
 
-#### *Conclusion*
 
-
-This assignment showcases the practical usage of various Git commands, including:
-
-
-* cloning
-
-
-* commit and push
-
-
-* pull and rebase
-
-
-* chery-pick
-
-
-* merging
-
-
-* stash
-
-
-* checkout
 
 
 
