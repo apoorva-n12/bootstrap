@@ -80,6 +80,13 @@ Screenshot:!\[git revert](docs/images/three way merge.png)
 Screenshot:!\[git reset soft](docs/images/git reset soft.png)
 
 
+### 26 git_assessment
+File:[git_assessment](docs/images/git_assessment_document_Apoorva.docx)
+
+
+### 27 git_pratice_assessment
+File:[git_assessment](docs/images/Apoorva_git_assessment_pratice_Document.docx)
+
 
 
 
