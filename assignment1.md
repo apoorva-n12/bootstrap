@@ -38,7 +38,7 @@ Screenshot:![git head](docs/images/git-HEAD.png)
 Screenshot:![git log](docs/images/git-log.png)
 
 12.git pull
-Screenshot:![git pull](docs/images/git-HEAD.png)
+Screenshot:![git pull](docs/images/git-pull.png)
 
 13.git push
 Screenshot:![git push](docs/images/git-push.png)
@@ -71,10 +71,10 @@ Screenshot:![git merge conflict](docs/images/merge-conflict.png)
 Screenshot:![git rebase](docs/images/rebase.png)
 
 23.git resolving merge conflict
-Screenshot:![git resolving merge conflict](docs/images/resolving-merge-conflict.png)
+Screenshot:![git resolving merge conflict](docs/images/resolved-merge-conflict.png)
  
 24.git revert
-Screenshot:![git revert](docs/images/three-way-merge.png)
+Screenshot:![git revert](docs/images/git-revert.png)
 
 25.git reset soft
 Screenshot:![git reset soft](docs/images/git-reset-soft.png)
