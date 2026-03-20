@@ -1,0 +1,26 @@
+TC01: Valid login
+Steps:
+1. Enter valid password
+2. Click login
+Expected Result: Login should be successful
+
+TC02: Invalid login
+1. Enter invalid password
+2. click login 
+Excepted Result: Invalid password
+
+TC03: Search a available product
+Expected Result: Product search successful
+
+TC04: Search a not available product
+Excepted Result: No results for your search query.
+
+TC01: Add single item to cart
+1. Open product page
+2. Click "Add to Cart"
+Expected Result: Item should be added to cart
+
+TC02: Add multiple items
+1. Add product A
+2. Add product B
+Expected Result: Both items should appear in cart

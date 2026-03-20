@@ -1,0 +1,13 @@
+https://demowebshop.tricentis.com/books
+
+
+
+
+TC_ID	Scenario	Steps	Expected Result	Actual Result	Status
+TC_U1	Easy search accessibility	Open app → Observe search bar	Search bar should be easily visible	Search bar is clearly visible on home screen	Pass
+TC_U2	Button clarity	Start navigation	Buttons should be clear	Buttons are slightly small but understandable	Pass
+TC_U3	Readability of map	View navigation screen	Text should be easy to read	Text is clear and readable	Pass
+TC_U4	Error message clarity	Turn OFF internet → Search	Clear error message	Message shown but not very clear to user	Fail
+TC_U5	User friendliness	New user opens app	Easy to use without confusion	User may feel slightly confused initially	Fail
+TC_U6	Touch interaction	Zoom in/out	Smooth response	Zoom works smoothly with
+out lag	Pass

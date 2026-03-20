@@ -3,7 +3,7 @@
 This document provides an overview of the Git commands practiced during the assignment, supported by screenshots.
 
 1.directory
-Screenshot:![cd directory](docs\images\directory.png)
+Screenshot:![cd directory](docs/images/directory.png)
 
 
 2.fast forward merge
@@ -90,7 +90,8 @@ File:[git_assessment](docs/images/Apoorva_git_assessment_pratice_Document.docx)
 
 
 
+### Week1_manual_testing_assessment
 
-
+File:[Manual_test_assessment](Week1_manual_testing_assessment\Manual_test_Week1_assessment.xlsx")
 
 
