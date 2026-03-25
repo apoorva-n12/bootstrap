@@ -5,7 +5,7 @@ This document provides an overview of the Git commands practiced during the assi
 ---
 
 ### 1. Fork : Fork is a copy of someone else’s repository that lives under your own account
-**Screenshot:** ![fork](docs/images/fork.png)
+**Screenshot:** ![fork](docs/images/git-fork.png)
 
 ### 2. Git Clone : git clone is a command used to download a repository from a remote server
 **Screenshot:** ![git clone](docs/images/git_clone.png)
@@ -14,10 +14,10 @@ This document provides an overview of the Git commands practiced during the assi
 **Screenshot:** ![cd directory](docs/images/directory.png)
 
 ### 4. Git Add : Stage all changed files.
-**Screenshot:** ![git add](docs/images/git-add.png)
+**Screenshot:** ![git add](docs/images/git_add.png)
 
 ### 5. Git Commit : It records changes to tracked files.
-**Screenshot:** ![git commit](docs/images/git-commit.png)
+**Screenshot:** ![git commit](docs/images/git_commit.png)
 
 ### 6. Git Push : Push a tag to the remote.
 **Screenshot:** ![git push](docs/images/git-push.png)
@@ -26,10 +26,10 @@ This document provides an overview of the Git commands practiced during the assi
 **Screenshot:** ![git pull](docs/images/git-pull.png)
 
 ### 8. Git Checkout : integrates changes from another branch into the current branch
-**Screenshot:** ![git checkout](docs/images/git-checkout.png)
+**Screenshot:** ![git checkout](docs/images/git_checkout.png)
 
 ### 9. Fast Forward Merge : Main branch has not changed since you created another branch.
-**Screenshot:** ![fast forward merge](docs/images/fast-forward-merge.png)
+**Screenshot:** ![fast forward merge](docs/images/fast_forword_merge.png)
 
 ### 10. Three-way Merge : A three-way merge is a Git merging method where Git uses three commits to combine changes:
 **Screenshot:** ![three way merge](docs/images/Three_way_merge.png)
@@ -53,7 +53,7 @@ This document provides an overview of the Git commands practiced during the assi
 **Screenshot:** ![git diff](docs/images/git-diff.png)
 
 ### 17. Git HEAD : Show the latest commit pointed to by HEAD.
-**Screenshot:** ![git head](docs/images/git-HEAD.png)
+**Screenshot:** ![git head](docs/images/git_HEAD.png)
 
 ### 18. Git Restore :  used to restore files to their previous state.
 **Screenshot:** ![git restore](docs/images/git-restore.png)
@@ -68,7 +68,7 @@ This document provides an overview of the Git commands practiced during the assi
 **Screenshot:** ![git reset hard](docs/images/git-reset-hard.png)
 
 ### 22. Git Revert : It creates a new commit that undoes the changes introduced by a previous commit
-**Screenshot:** ![git revert](docs/images/git-revert.png)
+**Screenshot:** ![git revert](docs/images/git_revert.png)
 
 ### 23. Git Stash : temporarily save the uncommitted changes.
 **Screenshot:** ![git stash](docs/images/git_stash.png)
@@ -80,7 +80,7 @@ This document provides an overview of the Git commands practiced during the assi
 **Screenshot:** ![git rm --cached](docs/images/git-rm-cached.png)
 
 ### 26. Git Amend : is used to modify the last commit.
-**Screenshot:** ![git amend](docs/images/git-amend.png)
+**Screenshot:** ![git amend](docs/images/git_amend.png)
 
 ---
 
